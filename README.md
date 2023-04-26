@@ -11,4 +11,4 @@ $ sudo pip3 install -r requirements.txt
   RECIPIENT_URL
 
 # Run the application
-$ python3 app.py
+$ python3 main.py
